@@ -109,10 +109,6 @@ header {
     display: none;
 }
 
-header h1, header p {
-    z-index: 2;
-}
-
 /* Section Styling: main */
 main {
     padding: 50px;
